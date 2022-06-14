@@ -1,0 +1,3 @@
+<resources>
+<string name="freshchat_file_provider_authority">com.example.chat.provider</string>
+</resources>
